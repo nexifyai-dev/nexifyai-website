@@ -9,21 +9,20 @@ export default function HomePage() {
           chat it. automate it.
         </p>
         <p className="mt-4 text-base leading-7 text-gray-500">
-          An AI-powered automation platform that lets you chat your way to
-          productivity.
+          Die KI-gestützte Automatisierungsplattform — chatte dich zur Produktivität.
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
           <a
-            href="#"
-            className="rounded-md bg-primary-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
+            href="/signup"
+            className="rounded-md bg-indigo-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
-            Get Started
+            Jetzt starten
           </a>
           <a
-            href="#"
-            className="text-sm font-semibold leading-6 text-gray-900 hover:text-primary-600"
+            href="#features"
+            className="text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-600"
           >
-            Learn more <span aria-hidden="true">→</span>
+            Mehr erfahren <span aria-hidden="true">→</span>
           </a>
         </div>
       </div>
