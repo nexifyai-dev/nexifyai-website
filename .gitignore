@@ -40,3 +40,4 @@ supabase/.temp
 
 # Next.js
 .cache/
+.vercel

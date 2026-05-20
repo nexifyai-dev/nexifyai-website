@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'NeXifyAI — chat it. automate it.',
-  description: 'NeXifyAI ist eine KI-gestützte Automatisierungsplattform. Chatte dich zur Produktivität.',
+  title: 'NeXify AI — chat it. automate it.',
+  description: 'NeXify AI ist eine KI-gestützte Automatisierungsplattform. Chatte dich zur Produktivität.',
 };
 
 export default function RootLayout({

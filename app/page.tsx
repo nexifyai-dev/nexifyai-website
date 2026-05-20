@@ -3,7 +3,7 @@ export default function HomePage() {
     <main className="flex min-h-screen flex-col items-center justify-center p-8">
       <div className="text-center max-w-2xl">
         <h1 className="text-6xl font-bold tracking-tight text-gray-900 sm:text-7xl">
-          NeXifyAI
+          NeXify AI
         </h1>
         <p className="mt-6 text-xl leading-8 text-gray-600">
           chat it. automate it.

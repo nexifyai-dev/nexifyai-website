@@ -25,7 +25,7 @@ export default async function SignupPage({
   return (
     <div className="flex min-h-screen flex-col items-center justify-center px-4">
       <div className="w-full max-w-sm">
-        <h1 className="text-2xl font-bold text-center mb-8">NeXifyAI-Konto erstellen</h1>
+        <h1 className="text-2xl font-bold text-center mb-8">NeXify AI-Konto erstellen</h1>
         <form className="space-y-4">
           <div>
             <label htmlFor="email" className="block text-sm font-medium text-gray-700">E-Mail</label>

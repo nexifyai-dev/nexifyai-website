@@ -1,8 +1,8 @@
-# NeXifyAI
+# NeXify AI
 
 > chat it. automate it.
 
-NeXifyAI is an AI-powered automation platform that lets you chat your way to productivity.
+NeXify AI is an AI-powered automation platform that lets you chat your way to productivity.
 
 ## Tech Stack
 
