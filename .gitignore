@@ -41,3 +41,7 @@ supabase/.temp
 # Next.js
 .cache/
 .vercel
+
+# Build artifacts
+tsconfig.tsbuildinfo
+.vercel
